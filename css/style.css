@@ -367,7 +367,7 @@ form:hover .form-button button{
 .news-input{
 	border-radius: 100px 0px 0px 100px!important;
 	min-width: 150px;
- 	min-width: 45px;
+ 	min-height: 45px;
 }
 .input-group-text{
 	color: white!important;
