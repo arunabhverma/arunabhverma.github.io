@@ -3,6 +3,8 @@
 	padding: 0px;
 	box-sizing: border-box;
 }
+.no-padding-price{
+	padding:0px!important;
 html{
 	scroll-behavior: smooth;
 }
